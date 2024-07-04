@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de README para a sua API simples em TypeScript com Express:
 
 ---
 
